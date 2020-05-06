@@ -1,0 +1,18 @@
+I"�<p>So in the process of looking into tools and metrics for evaluation of AI literature in radiology I came across <strong>CLAIM: Checklist for Artificial Intelligence in Medical Imaging</strong>.</p>
+
+<p>This checklist has been prepared by John Mongan, Linda Moy, Charles E. Kahn, Jr and published in <a href="https://pubs.rsna.org/doi/10.1148/ryai.2020200029">Radiology AI Journal</a> in March 2020. The aim of this checklist is to guide authors and reviewers to ensure that scientific results must be reproducible, and a scientific publication must describe the authors’ work in sufficient detail to enable readers to determine the rigor, quality, and generalizability of the work, and potentially to reproduce the work’s results.</p>
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
+<p class="aligncenter">
+<a href="https://pubs.rsna.org/doi/10.1148/ryai.2020200029">
+<img src="/assets/img/claim_checklist.jpeg" width="400" height="500" />
+</a>
+</p>
+
+<p>In my opinion, the checklist is fairly comprehensive and serves as an excellent blueprint and roadmap for future researchers, authors and reviewers who are interested in this kind of medical literature. So after careful read of the paper, I decided that moving forward I will adopt a scoring system that is based on this checklist to review literature on AI in Radiology. Using that, each article will be given a score out of the applicable points.</p>
+:ET

@@ -1,4 +1,4 @@
-title: Hello, world! I'm Mohamed Elbanan
+title: Mohamed Elbanan, MD
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -17,7 +17,7 @@ social-github: elbanan # add your Github handle
 social-linkedin: mohamedelbanan
 
 # Disqus
-discus-identifier: # add your discus identifier
+discus-identifier: elbanan # add your discus identifier
 
 # Tracker
 analytics: UA-116382803-3 # Google Analytics
